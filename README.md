@@ -1,3 +1,3 @@
 ![healthguard-banner](/assets/banner_resized.PNG)
 # HealthGuard
-AI-Powered Personal Risk Assessor
+AI-Powered Chronic Risk Disease Prediction
